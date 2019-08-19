@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-server" />
+        <module name="l-client" />
+        <module name="spring-fegin" />
+      </profile>
+      <profile name="Annotation profile for eureka-server" enabled="true">
+        <sourceOutputDir name="../ureka-server/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../ureka-server/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="EurekaClient" target="1.8" />
+      <module name="l-client" target="1.8" />
+      <module name="spring-fegin" target="1.8" />
+      <module name="springFegin" target="1.8" />
+      <module name="springFeginr" target="1.8" />
+      <module name="springHystrix" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

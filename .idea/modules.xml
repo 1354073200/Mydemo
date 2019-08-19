@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mydemo.iml" filepath="$PROJECT_DIR$/.idea/Mydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaClient/demo.iml" filepath="$PROJECT_DIR$/EurekaClient/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l-client/l-client.iml" filepath="$PROJECT_DIR$/l-client/l-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-fegin/spring-fegin.iml" filepath="$PROJECT_DIR$/spring-fegin/spring-fegin.iml" />
+    </modules>
+  </component>
+</project>
